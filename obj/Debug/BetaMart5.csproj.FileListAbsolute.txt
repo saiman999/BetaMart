@@ -1,0 +1,10 @@
+D:\Bootcamp\BetaMart\BetaMart5\bin\Debug\mydbbetamart.mdb
+D:\Bootcamp\BetaMart\BetaMart5\bin\Debug\BetaMart5.exe.config
+D:\Bootcamp\BetaMart\BetaMart5\bin\Debug\BetaMart5.exe
+D:\Bootcamp\BetaMart\BetaMart5\bin\Debug\BetaMart5.pdb
+D:\Bootcamp\BetaMart\BetaMart5\obj\Debug\BetaMart5.Form1.resources
+D:\Bootcamp\BetaMart\BetaMart5\obj\Debug\BetaMart5.Properties.Resources.resources
+D:\Bootcamp\BetaMart\BetaMart5\obj\Debug\BetaMart5.csproj.GenerateResource.cache
+D:\Bootcamp\BetaMart\BetaMart5\obj\Debug\BetaMart5.csproj.CoreCompileInputs.cache
+D:\Bootcamp\BetaMart\BetaMart5\obj\Debug\BetaMart5.exe
+D:\Bootcamp\BetaMart\BetaMart5\obj\Debug\BetaMart5.pdb
